@@ -1,4 +1,4 @@
-# Face Recogniton GUI-APP
+# APP Face Recogniton
 
 # Installation
 
