@@ -1,1 +1,0 @@
-mail : yatna@gmail.com
